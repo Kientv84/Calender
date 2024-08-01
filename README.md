@@ -1,3 +1,29 @@
+TRẢ LỜI CÂU HỎI
+
+* Cách backend trả dữ lieu là một object JSON, khóa ngoại sẽ là YYYY-MM-DD.
+mỗi đối tượng sẽ có các key và value. 
+
+* Tại sao sử dung:
+	- Dễ hiểu vì có các key và value giúp dễ sử dung 
+	- Dễ expand dữ liệu chỉ cần thông qua các key
+
+* Những thứ học được:
+	- Cách quảng lý các state trong react
+	- Cách tổ chức dữ liệu dưới dạng JSON 
+	- Render dữ liệu động theo ngày của Calender
+	- Thiết kế giao diện  
+
+* Tiếp tục phát triễn:
+	- Xử lý những sự kiện lặp lại, ví dụ một năm sẽ luôn có các sự kiện như tết,
+noel, ...
+	- Sử dung API từ backend
+	- Tối ưu về logic code tối ưu về hiệu suất
+	- Xử lý thêm thông báo thêm sự kiện thành công.
+	
+
+
+------------------------------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
